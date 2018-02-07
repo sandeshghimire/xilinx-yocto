@@ -1,2 +1,0 @@
-# xilinx-yocto
-Yocto-build
